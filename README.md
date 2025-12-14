@@ -27,13 +27,6 @@ This project is an Android-based FTP Client–Server application that enables fa
 - Achieves up to 75 Mbps transfer speed over local Wi-Fi
 - Significantly faster than Bluetooth and traditional USB MTP transfer
 
-## How to Run
-1. Clone the repository
-2. Open the project in Android Studio
-3. Build and run the app on an Android device
-4. Connect client and server on the same Wi-Fi network
-5. Transfer files using FTP credentials
-
 ## Use Cases
 - Large file transfer between phone and PC
 - Local network file sharing
